@@ -9,6 +9,9 @@ Desktop.ini
 *.swp
 *.swo
 
+# Dependencies
+node_modules/
+
 # Temporary files
 *.tmp
 *.temp
